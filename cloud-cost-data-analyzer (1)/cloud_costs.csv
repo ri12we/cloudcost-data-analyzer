@@ -1,0 +1,16 @@
+month,provider,service,department,usage_units,cost_usd
+2026-01,AWS,EC2,Engineering,4200,5200
+2026-01,AWS,S3,Engineering,3100,1100
+2026-01,AWS,RDS,Engineering,1800,2900
+2026-01,Azure,Virtual Machines,Analytics,2600,3400
+2026-01,Azure,Blob Storage,Analytics,1900,850
+2026-02,AWS,EC2,Engineering,4550,5650
+2026-02,AWS,S3,Engineering,3300,1180
+2026-02,AWS,RDS,Engineering,1950,3050
+2026-02,Azure,Virtual Machines,Analytics,2800,3650
+2026-02,Azure,Blob Storage,Analytics,2050,920
+2026-03,AWS,EC2,Engineering,4700,5850
+2026-03,AWS,S3,Engineering,3500,1250
+2026-03,AWS,RDS,Engineering,2100,3250
+2026-03,Azure,Virtual Machines,Analytics,2950,3820
+2026-03,Azure,Blob Storage,Analytics,2200,990
