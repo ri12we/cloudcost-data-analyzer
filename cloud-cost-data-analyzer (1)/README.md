@@ -1,6 +1,6 @@
 # Cloud Cost Data Analyzer
 
-A phyton data analystics project that analyzes cloud spending data using panda and matplotlib.
+A beginner-to-intermediate Python data analytics project designed to practice analyzing cloud spending data.
 
 > **Note:** The dataset in this project is fictional and is used only for learning. It is not real company billing data.
 
